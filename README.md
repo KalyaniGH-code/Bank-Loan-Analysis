@@ -1,18 +1,19 @@
-# Bank-Loan-Analysis
+# BANK LOAN ANALYSIS
+## Summary
 Bank loans serve as a vital financial instrument that empowers individuals and businesses to pursue their objectives and address various financial requirements. Nevertheless, it is imperative for borrowers to fully comprehend the associated terms, costs, and obligations to ensure sound and responsible financial decision-making.
 
-# Summary Highlights:
+## Data
 Total Loan Applications: 38,600
 Total Funded: $436 million
 Total Amount Repaid: $473 million
 Loan Quality: 86.2% were good loans, while 13.8% were bad loans
 Average Interest Rate: 12.0%
 
-# Toolkit
- ## MS SQL Server:
+## Toolkit
+ 1. MS SQL Server:
 Learned how to create databases and tables, and use key functions such as SELECT, GROUP BY, ORDER BY, DATEPART, DATETRUNC,  CAST, MONTH, COUNT, DISTINCT, etc as well as advanced tools like CTEs and PARTITION for more complex queries.
 
-## Power BI:
+ 2. Power BI:
 Gained experience in connecting to SQL Server, cleaning and shaping data, building data models, using Power Query and DAX, designing KPIs and visual dashboards (charts, cards), and enhancing reports with proper formatting and navigation.
 
 # Key Insights :
